@@ -1,0 +1,8 @@
+*.xcuserstate
+*.class
+*.dll
+*.o
+*.bak
+*.cproject
+*.project
+NeuronsDetector
